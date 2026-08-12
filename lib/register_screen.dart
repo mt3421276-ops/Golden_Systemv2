@@ -1,4 +1,3 @@
-cat > lib/register_screen.dart <<'EOF'
 import 'dart:io';
 
 import 'package:flutter/material.dart';
@@ -316,4 +315,3 @@ class _RegisterScreenState extends State<RegisterScreen> {
     );
   }
 }
-EOF
